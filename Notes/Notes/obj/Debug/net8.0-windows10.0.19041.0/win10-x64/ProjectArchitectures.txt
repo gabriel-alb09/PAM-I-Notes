@@ -1,1 +1,1 @@
-C:\Users\etechas\PAM-I-Notes\Notes\Notes\Notes.csproj;x64
+D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\Notes.csproj;x64

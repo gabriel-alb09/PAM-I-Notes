@@ -10,15 +10,20 @@
     <TabBar>
 
         <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-   
-        <ShellContent
-        Title="Sobre o aplicativo"
-        ContentTemplate="{DataTemplate local:AboutPage}"
-        Route="AboutPage" />
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
 
-   </TabBar>
+        <ShellContent
+            Title="Anotações"
+            ContentTemplate="{DataTemplate local:NotesPage}"
+            Route="NotesPage"/>
+
+        <ShellContent
+            Title="Sobre o aplicativo"
+            ContentTemplate="{DataTemplate local:AboutPage}"
+            Route="AboutPage" />
+
+    </TabBar>
     
 </Shell>

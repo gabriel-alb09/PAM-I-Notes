@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "giWcWhl7o3P8qDGTnltbSaNLXlIQ5llNRsG0skNet2Hb04PYs/ndSb/tLMlQoGvInezqFdtAV1k4LG5VX9FySA==",
+  "dgSpecHash": "6EQ2nlVfU93vLoFHC9cEIVXoroisyAtOy+VmCnjRCSFchwX3kJ3KUxf2IaaOoYR8REDm/6F7qh9iZ1l5V9l7Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etechas\\PAM-I-Notes\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "D:\\2BI-LimaAlco\\PAM1\\PAM-I-Notes\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
