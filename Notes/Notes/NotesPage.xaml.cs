@@ -24,11 +24,12 @@ public partial class NotesPage : ContentPage
 		text = FileEditor.Text;
         //Criar um arquivo com esse conteúdo
         File.WriteAllText(path, text);
-
-	}
+        DisplayAlert("Sucesso", "Arquivo Salvo com sucesso", "Ok");
+    }
 
 	private void DeleteButton_Clicked(Object sender, EventArgs e)
 	{
+		if (File.Exists(path)) { }
 		File.Delete(path);
 	}
 }

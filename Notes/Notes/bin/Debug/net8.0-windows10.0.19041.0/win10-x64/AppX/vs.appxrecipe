@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-20T20:58:56.322</Modified>
+      <Modified>2024-03-20T21:12:16.318</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-20T20:58:56.227</Modified>
+      <Modified>2024-03-20T21:12:16.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.runtimeconfig.json">
       <PackagePath>Notes.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.dll">
       <PackagePath>Notes.dll</PackagePath>
-      <Modified>2024-03-20T20:58:56.038</Modified>
+      <Modified>2024-03-20T21:12:15.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Notes.exe</PackagePath>
-      <Modified>2024-03-20T20:58:56.038</Modified>
+      <Modified>2024-03-20T21:12:15.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

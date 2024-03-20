@@ -329,7 +329,6 @@ D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.
 D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.AssemblyInfoInputs.cache
 D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.AssemblyInfo.cs
 D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.csproj.CoreCompileInputs.cache
-D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.sourcelink.json
 D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.csproj.CopyComplete
 D:\2BI-LimaAlco\PAM1\PAM-I-Notes\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.dll
